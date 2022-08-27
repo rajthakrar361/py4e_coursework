@@ -1,0 +1,19 @@
+Course 3 notes
+
+Week 2 (2nd.py) - Regular Expresssions 
+i - Printing lines containing specefic word/words using normal method (by find function).
+ii - Printing lines containing specefic word/words using regular expressions.
+iii - Use the notes on regular expression (black diary).
+
+Week 3 (3rd.py) -  Socket connection
+i - Making a connection to a socket.
+ii - Connecting to that socket at a specefic port number.
+iii - Getting data from that URL (combination of protocol, domain name and path).
+
+Week 4 (4th.py and 4.1.py) - 
+i - Using the ord function.
+ii - Using the URL library to obtain web page information.
+iii - (4.1) is a modified version with capability of retriving href tags from https pages using Beautiful soup.
+
+Week 5 - XML
+i - What are tags, Attributes, serialize and de-serialize.

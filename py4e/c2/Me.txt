@@ -1,0 +1,9 @@
+Name - Raj Thakrar      
+Age - 19
+Birth Date - 3 june, 2001
+email id - raj.thakrar030601@gmail.com
+email id (alternative) - mukesh.thakrar@gmail.com
+Mother's Name - Mayuri Thakrar
+Father's Name - Mukesh Thakrar
+Studying At Manipal University Jaipur
+Pursuing B-Tech in Computer Science Engineering

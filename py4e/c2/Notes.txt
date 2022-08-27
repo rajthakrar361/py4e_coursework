@@ -1,0 +1,46 @@
+Course 2 notes
+
+Week - 1 (1st.py) - Strings
+i - Printing the letters of a word using for loop.
+ii - Counting the number of times a letter has appeared in a string.
+iii - Slicing a string using s[x:y].
+iv - Checking if a string is a part of another string  using in. 
+v - Comparing strings.
+vi - Using Functions from string library like lower, upper, replace, strip, find and startswith. 
+
+Week - 3 (3rd.py) - Files
+i - Opening text files and counting the number of lines.
+ii - Reading a text file as a single string using read function and counting the number of words in the file.
+iii - Finding specefic lines in a text file using startswith function.
+iv - Printing only those lines which contain specefic word or words.
+
+Week - 4 (4th.py) - Lists []
+i - Basic Definations of Algorithms, Data Structure, Collections and lists.
+ii - Basics of a list.
+iii - Using the range function.
+iv - Appending elements in a list.
+v - Sorting list elements using sort function.
+vi - Using Split function. VERY IMP and Part of STRINGS and list.
+
+Week - 5 (5th.py) - Dictionaries {}
+i - Defination.
+ii - Basics of dictionaries.
+iii - Lists and dictionaries.
+iv - Declaring and initializing a dictionary.
+v - Counting the number of times a word appeared in a list
+vi - Using the get function (Only for dictionaries).
+vii - Counting the number of times a word has appeared in a file and stoing it in dictionary.
+viii - Counting the number of times a word has appeared in a line and stoing it in dictionary.
+ix - Making list of tuples of keys, values and items of a dictionary.
+x - Counting the number of times, a word has appeared in a file and then printing the most occuring word.
+
+Week - 6 (6th.py and 6.1.py) - Tuples ()
+i - Defination and basics about tuples.
+ii - Getting a list of tuples of a dictionary items using dictionary_name.items() function.
+iii - Sorted (in key order) Dictionary.
+iv - Sorting dictionary in value order.
+v - Finding the 10 most common words in a text file.
+
+
+
+	
